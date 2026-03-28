@@ -19,7 +19,9 @@
 using namespace std;
 
 int secondlargest(int arr[], int n) {
-    int largest = -1, second = -1;
+    if (n < 2) return -1;
+
+    int largest = INT_MIN, second = INT_MIN;
 
     for (int i = 0; i < n; i++) {
         if (arr[i] > largest) {
@@ -30,6 +32,8 @@ int secondlargest(int arr[], int n) {
             second = arr[i];
         }
     }
+
+    if (second == INT_MIN) return -1;
     return second;
 }
 
