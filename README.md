@@ -22,12 +22,19 @@ For all problems, I include:
 Organized topic-wise based on DSA fundamentals:
 
 /Arrays
+
 /Strings
+
 /LinkedList
+
 /Stack
+
 /Queue
+
 /Trees
+
 /Graphs
+
 /DynamicProgramming
 
 Each folder contains:
