@@ -39,9 +39,9 @@ Organized topic-wise based on DSA fundamentals:
 
 Each folder contains:
 
-Problem solutions
-Separate files for brute and optimal approaches (where applicable)
-Time & Space complexity for each solution
+Problem solutions, 
+Separate files for brute and optimal approaches (where applicable), 
+Time & Space complexity for each solution & 
 Clean and readable C++ code
 
 🛠️ Tech Stack
