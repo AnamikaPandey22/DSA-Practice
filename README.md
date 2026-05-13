@@ -5,7 +5,7 @@ A structured and consistent journey of mastering Data Structures and Algorithms 
 🚀 About
 
 This repository documents my daily DSA practice where I solve 1–2 problems consistently to build strong problem-solving skills and prepare for technical interviews.
-I focus not just on solving problems, but on understanding multiple approaches — from brute force to optimal.
+I focus not just on solving problems, but on understanding multiple approaches from brute force to optimal.
 
 🧠 Approach
 
